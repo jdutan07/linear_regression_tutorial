@@ -1,1 +1,1 @@
-# simple_linear_regression_tutorial
+# linear_regression_tutorial
